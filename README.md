@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Azrael Al-Hakeem</h1>
-  <h4>Computer science | Cyber security | Robotics | Blockchain Developer | Game Developer </h4>
+  <h4>Computer science • Open-source intelligence (OSINT) • Cyber security • Robotics</h4>
 </div>
 <br>
 <br>
