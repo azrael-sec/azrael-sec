@@ -8,7 +8,7 @@
 <br>
 <div align="center">
   <p align="center"><a href=""><img src="https://skillicons.dev/icons?i=c,cpp,wasm,bash,lua,qt,gtk,vim,linux,blender,matlab," /></a></p><br>
-  <img alt="Gitea language count" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour-hikmah&hide_progress=false&theme=dark">
+  <img alt="Gitea language count" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrael-sec&hide_progress=false&theme=dark">
 </div>
 
 
