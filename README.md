@@ -9,7 +9,7 @@ Proficient in C, C++, Assembly, Bash, with a preference for Unix-like environmen
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azrael-sec&hide_progress=false&theme=dark)
 
-## AQL Intelligence
+# AQL Intelligence
 We are an intelligence technology company operating at the forefront of cybersecurity, strategic analysis, data engineering, and artificial intelligence. 
 We seek not only technical progress, but also the restoration of order, integrity, and equity in human systems through reason combined with machines.
 
@@ -37,5 +37,5 @@ Fund the development of new projects with a symbolic amount
 
 ### Links
 
-- ![Telegram](https://t.me/AQL_intell)
-- ![Discord](https://discord.gg/HNV4F7wMh9 )
+- Telegram: https://t.me/AQL_intell
+- Discord: https://discord.gg/HNV4F7wMh9
