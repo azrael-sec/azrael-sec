@@ -32,8 +32,3 @@ Fund the development of new projects with a symbolic amount
 - **Bitcoin**: `bc1pdvu9a9yqgnunh3hy27qz56nw5n6mjzss0m28w94lu8pt9nnj4rgqqh44es`
 - **Etherium**: `0xcD4900c0aB884291421376493d8d54e7BAA0d0ac`
 - **Solana**: `3GVVU3xfLEi21RLWEQsZ2KfDdwhEL31xA7Q5WatVEW2W`
-
-### Links
-
-- Telegram: https://t.me/AQL_intell
-- Discord: https://discord.gg/HNV4F7wMh9
