@@ -24,11 +24,11 @@ We are driven by a founding principle: technology should not be neutral in the f
 
 We do not advertise. We do not sell promises. We do not bow to market logic.
 
-*Those who seek us, seek us in silence.*
-*Those who know us, do not name us in public.*
+### Symbolic contributions:
+- BTC: `bc1pdvu9a9yqgnunh3hy27qz56nw5n6mjzss0m28w94lu8pt9nnj4rgqqh44es`
+- ETC: `0xcD4900c0aB884291421376493d8d54e7BAA0d0ac`
+- SOL: `3GVVU3xfLEi21RLWEQsZ2KfDdwhEL31xA7Q5WatVEW2W`
 
-### Donates
-Fund the development of new projects with a symbolic amount
-- **Bitcoin**: `bc1pdvu9a9yqgnunh3hy27qz56nw5n6mjzss0m28w94lu8pt9nnj4rgqqh44es`
-- **Etherium**: `0xcD4900c0aB884291421376493d8d54e7BAA0d0ac`
-- **Solana**: `3GVVU3xfLEi21RLWEQsZ2KfDdwhEL31xA7Q5WatVEW2W`
+<br>
+
+~ *Those who seek us, seek us in silence. Those who know us, do not name us in public.*
