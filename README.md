@@ -3,8 +3,6 @@
 # Azrael Al-Hakeem
 Rigorous training in computer science, specializing in cybersecurity, and extensive knowledge of software engineering, OSINT, Cyber Threat Intelligence, and low-level systems.
 
-Proficient in C, C++, Assembly, Bash, with a preference for Unix-like environments, especially the austere and immaculate ArchLinux.
-
 ![](https://skillicons.dev/icons?i=c,cpp,wasm,bash,lua,qt,gtk,vim,linux,matlab)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azrael-sec&hide_progress=false&theme=dark)
